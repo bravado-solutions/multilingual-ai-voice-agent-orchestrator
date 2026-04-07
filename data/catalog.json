@@ -1,0 +1,16 @@
+{
+    "products": [
+        {
+            "name": "Earbud Pro",
+            "price": "$199",
+            "description": "Noise-cancelling earbuds, 20hr battery.",
+            "status": "In Stock"
+        },
+        {
+            "name": "Smart Watch",
+            "price": "$250",
+            "description": "GPS smartwatch, Heart-rate monitor.",
+            "status": "Out of Stock"
+        }
+    ]
+}
