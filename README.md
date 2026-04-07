@@ -12,7 +12,7 @@ The **Multilingual AI Voice Agent Orchestrator** is an enterprise-grade gateway 
 
 ## 💎 Key Competitive Advantages
 
-* **⚡ Zero-Latency Language Switching** Legacy IVR systems are rigid. Our orchestrator uses **Continuous Neural Language Detection**. If a customer starts in English and switches to Spanish or Urdu mid-sentence, the system adapts instantly without manual menu selection or downtime.
+* **⚡ Zero-Latency Language Switching** Legacy IVR systems are rigid. Our orchestrator uses **Continuous Neural Language Detection**. If a customer starts in English and switches to Spanish mid-sentence, the system adapts instantly without manual menu selection or downtime.
 
 * **🛡️ Absolute "Grounding" (Zero Hallucination Policy)** AI "hallucinations" are a liability. We utilize a **Strict-Context RAG (Retrieval-Augmented Generation)** architecture. The Agent is "sandboxed" within your official product catalog. If a customer asks for a discount that doesn't exist, the AI strictly cites your verified data—protecting your margins and brand integrity.
 
