@@ -74,7 +74,7 @@ multilingual-support-orchestrator/
 
 Bash
 
-git clone https://github.com/bravado-solutions/multilingual-voice-orchestrator.git
+git clone https://github.com/bravado-solutions/multilingual-ai-voice-agent-orchestrator.git
 cd multilingual-voice-orchestrator
 pip install -r requirements.txt
 
